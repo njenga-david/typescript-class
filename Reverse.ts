@@ -3,4 +3,4 @@ function reverseInteger(num: number): number {
     return reversed;
 }
 console.log(reverseInteger(500)); 
-console.log(reverseInteger(-56)); 
+
